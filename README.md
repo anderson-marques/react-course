@@ -1,4 +1,4 @@
-# React Courses - Materials
+# React Courses - Material
 
 ## 1. React Fundamentals
 
@@ -13,3 +13,5 @@
 - [Mixinx](/Fundamentals/09.mixins.md)
 - [Controlled Components](/Fundamentals/10.controlled-components.md)
 - [Refs](/Fundamentals/11.refs.md)
+- [getDOMNode()](/Fundamentals/12.get-dom-node.md)
+- [Client-side routing with HTML5 pushState](/Fundamentals/13.client-side-routing.md)
