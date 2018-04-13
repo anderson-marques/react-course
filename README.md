@@ -18,7 +18,7 @@
 - [Controlled Components](/3.Fundamentals/10.controlled-components.md)
 - [Refs](/3.Fundamentals/11.refs.md)
 - [React.findDOMNode()](/3.Fundamentals/12.get-dom-node.md)
-- [Client-side routing with HTML5 pushState](/3-Fundamentals/13.client-side-routing.md)
+- [Client-side routing with HTML5 pushState](/3.Fundamentals/13.client-side-routing.md)
 
 ## 4. React and Flux
 
